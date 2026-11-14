@@ -1,0 +1,20 @@
+# è™šæ‹Ÿç¯å¢ƒä¸ç¼“å­˜
+.venv/
+__pycache__/
+*.py[cod]
+
+# æœ¬æœºè¿è¡Œäº§ç‰©ï¼ˆä¸éšä»“åº“å‘å¸ƒï¼‰
+config.json
+brightness-log.csv
+*.log
+
+# æˆªå›¾/ä¸´æ—¶æ–‡ä»¶
+_gui-tabs/
+_shot-window.png
+_measure.py
+_probe_win.ps1
+# ¿ª·¢ÆÚÁÙÊ±²úÎï
+_crop*.png
+½çÃæ½ØÍ¼.png
+_gui-tabs/
+_shot-window.png
