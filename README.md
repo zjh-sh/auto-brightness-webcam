@@ -3,6 +3,7 @@
 ![platform](https://img.shields.io/badge/platform-Windows%2010%2F11-2f6fed)
 ![python](https://img.shields.io/badge/python-3.10%2B-3776ab)
 ![license](https://img.shields.io/badge/license-MIT-12805c)
+[![smoke](https://github.com/zjh-sh/auto-brightness-webcam/actions/workflows/smoke.yml/badge.svg)](https://github.com/zjh-sh/auto-brightness-webcam/actions/workflows/smoke.yml)
 
 **笔记本没有环境光传感器？那就让摄像头当传感器。**
 
